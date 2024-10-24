@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+python-dotenv
+geopy
+nltk
+sumy
+textblob
+spacy
+vaderSentiment
+scikit-learn
